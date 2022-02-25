@@ -61,7 +61,7 @@ menu:
   - title:             About
     url:               /about/
   - title:             Portfolio
-    url:               /portfolio/
+    url:               https://full-comic-8bf.notion.site/Junior-Backend-Developer-d329380d74df409c83675b7c522ce31b
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
