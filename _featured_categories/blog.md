@@ -13,8 +13,11 @@ submenu: true
 ## Category
 
 * [Python]{:.heading.flip-title} 
-* [자료구조]{:.heading.flip-title} 
+* [기초수학]{:.heading.flip-title} 
+* [자료구조/알고리즘]{:.heading.flip-title} 
+* [통계]{:.heading.flip-title} 
 
 [Python]: /python/
-[자료구조]: /자료구조/
-
+[기초수학]: /기초수학/
+[자료구조/알고리즘]: /자료구조와알고리즘/
+[통계]: /통계/

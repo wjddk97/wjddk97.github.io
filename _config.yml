@@ -55,8 +55,12 @@ menu:
     submenu:
       - title:          Python
         url:            /python/
-      - title:          자료구조
-        url:            /자료구조/
+      - title:          기초수학
+        url:            /기초수학/
+      - title:          자료구조와알고리즘
+        url:            /자료구조와알고리즘/
+      - title:          통계
+        url:            /통계/
         
   - title:             About
     url:               /about/
