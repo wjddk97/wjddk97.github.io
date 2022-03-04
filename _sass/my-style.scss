@@ -52,3 +52,24 @@ hr.dingbat:after {
   font-size: 0rem;
   color: var(--menu-text);
 }
+
+
+.content h1, .content .h1 {
+    font-size: 1.3rem !important;
+    line-height: 1.35;
+}
+
+a.heading.flip-title {
+  font-size: 20px !important;
+}
+
+@font-face {
+	font-family: 'IBM Plex Sans KR', sans-serif !important ;
+	src: url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@500&display=swap')!important ;
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+	font-family: 'IBM Plex Sans KR', sans-serif !important;
+}
