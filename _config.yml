@@ -61,6 +61,8 @@ menu:
         url:            /자료구조와알고리즘/
       - title:          통계
         url:            /통계/
+      - title:          CodeKata
+        url:            /codekata/
         
   - title:             About
     url:               /about/
