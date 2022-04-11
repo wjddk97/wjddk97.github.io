@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1. 줄바꿈 \n, 탭 \t
+title: 줄바꿈 \n, 탭 \t
 #subtitle: 부제목
 tags: 
 # description: >

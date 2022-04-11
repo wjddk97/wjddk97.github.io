@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 7. overriding/ super() 메서드
+title: overriding/ super() 메서드
 #subtitle: 부제목
 tags: 
 # description: >

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 9. instance()
+title: instance()
 date: 2022-04-05 03:39:02+0900
 tags: 
 # description: >
